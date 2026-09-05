@@ -1,0 +1,16 @@
+bin
+dist
+site
+node_modules
+.git
+.idea
+.github
+.vscode
+.gitignore
+*.md
+LICENSE
+vendor
+e2e/
+.devcontainer/
+coverage.txt
+coverage/
